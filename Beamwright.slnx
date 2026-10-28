@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="App2d.Beamwright/App2d.Beamwright.csproj" />
+  <Project Path="App2d.Beamwright.Tests/App2d.Beamwright.Tests.csproj" />
+</Solution>
